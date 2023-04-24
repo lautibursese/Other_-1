@@ -12,8 +12,6 @@ A simple and efficient voice recorder script in Python that records audio from y
 - [Installation](#installation)
 - [Usage](#usage)
 - [Potential of the Project](#potential)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 **Features** <a name="features"></a>
 
