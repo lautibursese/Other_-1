@@ -56,14 +56,6 @@ This voice recorder script can serve as a starting point for more advanced audio
 - Audio transcription using speech-to-text services
 - Integration with web or desktop applications for a more interactive user experience
 
-## 👥 **Contributing** <a name="contributing"></a>
-
-Feel free to open issues or submit pull requests to improve the project. Any contribution is welcome!
-
-
-
-
-
 
 
 
